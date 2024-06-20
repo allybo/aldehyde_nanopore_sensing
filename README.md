@@ -1,5 +1,8 @@
 # aldehyde_nanopore_sensing
 
+This repository contains the code and dataset to reproduce the results for the machine learning classification task of aldehyde nanopore sensing. The provided Jupyter Notebook demonstrates the entire process, from data loading to model evaluation, using a dataset called `dataset.csv`.
+
+
 ## Installation
 
 1. Clone the repository:
